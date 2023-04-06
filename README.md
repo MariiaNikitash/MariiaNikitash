@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariia Nikitash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an international student-athlete from Ukraine🇺🇦</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
