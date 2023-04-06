@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariia Nikitash</h1>
 <h3 align="center">I am an international student-athlete from Ukraine🇺🇦</h3>
 
-<img sytle = align:"center"
+<img style = align:"center"
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
