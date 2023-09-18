@@ -4,7 +4,7 @@
 <img
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 </p>
-<h3 align="left">Connect with me: nikitash.mariia2004@csu.fullerton.edu </h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
