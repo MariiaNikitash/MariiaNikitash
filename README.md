@@ -22,10 +22,11 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
 <img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white&logo=openai" alt="html" style= "margin: 5px; vertical-align:top"/> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
+
 
 <p align="left">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=MariiaNikitash&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaNikitash&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
 </p>
 
