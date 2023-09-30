@@ -21,7 +21,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <img src="https://img.shields.io/badge/-Linux-yellow?logo=linux&style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
 
 <p align="left">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=MariiaNikitash&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
