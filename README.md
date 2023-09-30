@@ -19,7 +19,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
  <img src="https://img.shields.io/badge/-Linux-yellow?logo=linux&style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-
+<img src="https://img.shields.io/badge/-Linux-yellow?logo=linux&style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
 
