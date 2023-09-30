@@ -5,8 +5,9 @@
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-nikitash-6062a3221/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/>
