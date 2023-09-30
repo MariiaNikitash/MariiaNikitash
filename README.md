@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariia Nikitash🇺🇦</h1>
-<h3 align="center">I am an international student-athlete from Ukraine pursuing a degree in Computer Science!</h3>
+<h3 align="center">I am an international student-athlete from Ukraine pursuing a degree in Computer Science in Cal State Fullerton!</h3>
 <p align = "center">
 <img
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 </p>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-nikitash-6062a3221/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/>
