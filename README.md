@@ -7,7 +7,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style= " margin: 5px; vertical-align:top" /> 
@@ -21,7 +21,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <img src="https://img.shields.io/badge/-Linux-yellow?logo=linux&style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
 
 <p align="left">
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=MariiaNikitash&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
