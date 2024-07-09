@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mariia Nikitash🇺🇦</h1>
-<h3 align="center">I am an international student-athlete from Ukraine pursuing a degree in Computer Science in CSU Fullerton!</h3>
+<h1 align="center">Hi 👋, I'm Mariia Nikitash</h1>
+<h3 align="center">I am an international student-athlete from Ukraine pursuing a degree in Computer Science at CSU Fullerton!</h3>
 <p align = "center">
 <img
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
