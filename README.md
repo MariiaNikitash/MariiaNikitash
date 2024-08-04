@@ -9,7 +9,7 @@
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif"> 
 </p> -->
 
-<h3 align="left">📋Languages I worked with:</h3>
+<h3 align="left">📋Languages I've worked with:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style= " margin: 5px; vertical-align:top" /> 
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
