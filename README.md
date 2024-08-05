@@ -9,7 +9,7 @@
 src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif"> 
 </p> -->
 
-<h3 align="left">📋Languages I've worked with:</h3>
+<h3 align="left">📋 Languages I've worked with:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style= " margin: 5px; vertical-align:top" /> 
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
@@ -30,27 +30,46 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
   <img src=" https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white "/>
+   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white "/>
    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black "/>
 </p> 
 
 
 
-  <h3 align="left">💻My Toolbox:</h3>
+  <h3 align="left">💻 Coding Environments:</h3>
   <p align="left"> 
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white "/>
-  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white "/>
+ 
+  
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    </p> 
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+
+  </p> 
+
+  <h3 align="left">Frameworks:</h3>
+ <p align="left"> 
+   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
+  
+ <h3 align="left">💾 Databases:</h3>
+ <p align="left"> 
+   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p> 
 
 <h3 align="left">Connect with me: </h3>
 <a href="mailto:mariiaw@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px; vertical-align:top">
 </a>
- <a href="https://www.linkedin.com/in/mariia-nikitash-6062a3221/">
+ <a href="https://www.linkedin.com/in/mariia-nikitash/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
 </a> 
 
