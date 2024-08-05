@@ -36,7 +36,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 
 
 
-  <h3 align="left">💻 Coding Environments:</h3>
+  <h3 align="left">👩‍💻 Toolbox:</h3>
   <p align="left"> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
    <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
@@ -50,7 +50,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
 
   </p> 
 
-  <h3 align="left">Frameworks:</h3>
+  <h3 align="left">💻 Frameworks:</h3>
  <p align="left"> 
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -65,7 +65,7 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p> 
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">💬 Connect with me: </h3>
 <a href="mailto:mariiaw@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px; vertical-align:top">
 </a>
