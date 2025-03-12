@@ -77,5 +77,4 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=MariiaNikitash&show_icons=true&theme=algolia&include_all_commits=true&hide=stars"/>
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaNikitash&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
-
-
+ 
