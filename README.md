@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mariia (Masha) Nikitash 🇺🇦</h1>
 <p align="left"> 
-                   I am full-time Division I student-athlete and Computer Science student at CSU Fullerton <br> with an expected graduation year of 2025!<br>
+                   I am Division I student-athlete and Computer Science student at CSU Fullerton <br> with an expected graduation year of 2025!<br>
                    My passion lies in learning Data Science, Machine Learning, Deep Learning and AI!<br>
                    Currently I am working on variety of projects untilizing NLP and LLMs, so stay tuned!</p>
                   
