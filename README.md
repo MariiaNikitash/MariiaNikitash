@@ -1,8 +1,15 @@
 <h1 align="left">Hi 👋, I'm Mariia (Masha) Nikitash 🇺🇦</h1>
 <p align="left"> 
-                   I am Division I student-athlete and Computer Science student at CSU Fullerton <br> with an expected graduation year of 2025!<br>
-                   My passion lies in learning Data Science, Machine Learning, Deep Learning and AI!<br>
-                   Currently I am working on variety of projects untilizing NLP and LLMs, so stay tuned!</p>
+                 
+```python
+class Mariia:
+def __init__(self):
+    self.education = "MS CS @ CSU Fullerton '27"
+    self.role = "TA for CPSC 120L (C++)"
+    self.athletics = "D1 Student-Athlete"
+    self.daily = "LeetCode"
+    self.interests = ["coding", "gym", "learning", "tennis", "traveling"]
+``` 
                   
 <!--- <p align = "center">
 <img
