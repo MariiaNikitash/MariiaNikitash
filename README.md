@@ -83,8 +83,5 @@ src="https://media.giphy.com/media/JMaoKQTF3iur54WY0y/giphy.gif">
  <a href="https://www.linkedin.com/in/mariia-nikitash/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
 </a> 
-
-<p align="left">
- <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=MariiaNikitash&show_icons=true&theme=algolia&include_all_commits=true&hide=stars"/>
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mariianikitash&" alt="mariianikitash" /></p>
  
